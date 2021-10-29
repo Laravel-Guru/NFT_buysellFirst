@@ -1,0 +1,21 @@
+ @import 'variables';
+
+
+.Carousel
+{
+    width: 500px;
+
+    .Project
+    {
+        position: relative;
+        height: 500px;
+        overflow: hidden;
+        padding: 20px;
+
+        *
+        {
+            color: white;
+        }
+
+    }
+}
